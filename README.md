@@ -51,3 +51,36 @@ Print output total laba keseluruhan :
 ### Step 6 : Test Code Program
 Uji coba code program :
 ![gambar1](ss/12.png)
+
+## CODE PROGRAM ATM SEDERHANA
+
+### Step 1 : Input Saldo
+Masukan nilai saldo di atm untuk mengambil jumlah yang dapat diambil :
+
+
+### Step 2 : Kondisi While 
+Gunakan perintah Loop While untuk perulangan, masukan Saldo saat ini dan pilihan untuk menentukan penarikan atau keluar dari proses :
+
+
+### Step 3 : Pilihan
+Untuk memilih pilihan proses, input pilihan dengan mencantumkan (1/2) yang sudah tersedia :
+
+
+### Step 4 : Kondisi If Pilihan No.1
+Beri kondisi if untuk input "pilihan" sebagai pilihan Nomer 1, input integer sebagai bilangan bulat yang akan diproses dengan memberi notifikasi "Masukan Jumlah Penarikan" :
+
+
+### Step 5 : Kondisi Penarikan Berhasil
+Beri kembali perintah If untuk menentukan kondisi true atau valid ketika menarik sejumlah uang, jika Jumlah yang diinput lebih kecil atau sama dengan saldo maka lanjutkan dengan diberi perintah saldo dikurangi jumlah yang dimasukan, selain kondisi diatas maka saldo tidak mencukupi:
+
+
+### Step 6 :  Kondisi Elif Pilihan No.2
+Selanjutnya beri perintah Elif untuk kemungkinan lainnya, menyatakan keluar dari proses program, tambahkan break untuk kondisi yang sudah sesuai (Valid/True) berguna untuk tidak ada pengulangan kembali : 
+
+
+### Step 7 : Print Output
+Masuk tahap terakhir, print else untuk kemungkinan lain jika kondisi data yang diinputkan False/invalid :
+
+
+### Step 8 : Test Code Program 
+Uji kode program dengan menginputkan nomer 1 untuk penarikan dan masukan jumlah uang 300.000 :

@@ -25,3 +25,28 @@ Print output menyatakan ("Selesai") :
 ### Step 6 : Test Program
 Uji code program dengan menginputkan N = 5 :
 ![gambar1](ss/6.png)
+
+## CODE PROGRAM INVESTASI LABA
+
+### Step 1 : Input Nilai Modal dan Total Laba
+Input Nilai yang ingin dimasukan yaitu Modal = 100.000.000 dan Total Laba = 0
+
+
+### Step 2 : Print
+Print Input Modal Awal sebesar 100 juta :
+
+
+### Step 3 : Kondisi
+Beri kondisi for i in range untuk jangkauan bulannya, lalu kondisi if, elif dan else untuk menentukan hasil lain, 2 bulan pertama input keuntungan laba = 0, dan di bulan ke 3&4 masukan keuntungan laba dikalikan 0.01, begitu juga dengan bulan 5 hingga 8 masukan keuntungan laba dikalikan 0.05 :
+
+
+### Step 4 : Print laba bulan 1 - bulan 8
+Operator += penugasan yang digunakan untuk menambah nilai pada variabel dengan nilai lain, dan menyimpan hasilnya kembali ke variabel tersebut. Dengan kata lain, += adalah cara singkat untuk menulis operasi penjumlahan dan penugasan secara bersamaan. Print output hasil dari laba perbulan, laba bulan ke berapa dan sebesar apa :
+
+
+### Step 5 : Print Total
+Print output total laba keseluruhan :
+
+
+### Step 6 : Test Code Program
+Uji coba code program :

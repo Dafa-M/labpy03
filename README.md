@@ -2,9 +2,9 @@ Table Of Content
 ==========
 *[LAPORAN PRAKTIKUM 3](#laporan-praktikum-3)    
     *[LATIHAN 1 : CODE PROGRAM BILANGAN ACAK](#latihan-1--code-program-bilangan-acak)
-    *[LATIHAN 2 : CODE PROGRAM INVESTASI LABA](#latihan-2--code-program-investasi-laba)
-    *[LATIHAN 3 : CODE PROGRAM ATM SEDERHANA](#latihan-3--code-program-atm-sederhana)
-    *[KESIMPULAN](#kesimpulan)
+        *[LATIHAN 2 : CODE PROGRAM INVESTASI LABA](#latihan-2--code-program-investasi-laba)
+            *[LATIHAN 3 : CODE PROGRAM ATM SEDERHANA](#latihan-3--code-program-atm-sederhana)
+                *[KESIMPULAN](#kesimpulan)
 
 # LAPORAN PRAKTIKUM 3
 

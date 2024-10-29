@@ -1,5 +1,11 @@
 # LAPORAN PRAKTIKUM 3
 
+## DAFTAR ISI
+[LATIHAN 1 : CODE PROGRAM BILANGAN ACAK](#latihan-1--code-program-bilangan-acak)
+[LATIHAM 2 : CODE PROGRAM INVESTASI LABA](#latihan-2--code-program-investasi-laba)
+[LATIHAN 3 : CODE PROGRAM ATM SEDERHANA](#latihan-3--code-program-atm-sederhana)
+[KESIMPULAN](#kesimpulan)
+
 ## LATIHAN 1 : CODE PROGRAM BILANGAN ACAK
 
 ### Step 1 : Import Random
@@ -26,7 +32,7 @@ Print output menyatakan ("Selesai") :
 Uji code program dengan menginputkan N = 5 :
 ![gambar1](ss/6.png)
 
-## CODE PROGRAM INVESTASI LABA
+## LATIHAN 2 : CODE PROGRAM INVESTASI LABA
 
 ### Step 1 : Input Nilai Modal dan Total Laba
 Input Nilai yang ingin dimasukan yaitu Modal = 100.000.000 dan Total Laba = 0
@@ -52,35 +58,41 @@ Print output total laba keseluruhan :
 Uji coba code program :
 ![gambar1](ss/12.png)
 
-## CODE PROGRAM ATM SEDERHANA
+## LATIHAN 3 : CODE PROGRAM ATM SEDERHANA
 
 ### Step 1 : Input Saldo
 Masukan nilai saldo di atm untuk mengambil jumlah yang dapat diambil :
-
+![gambar1](ss/13.png)
 
 ### Step 2 : Kondisi While 
 Gunakan perintah Loop While untuk perulangan, masukan Saldo saat ini dan pilihan untuk menentukan penarikan atau keluar dari proses :
-
+![gambar1](ss/14.png)
 
 ### Step 3 : Pilihan
 Untuk memilih pilihan proses, input pilihan dengan mencantumkan (1/2) yang sudah tersedia :
-
+![gambar1](ss/15.png)
 
 ### Step 4 : Kondisi If Pilihan No.1
 Beri kondisi if untuk input "pilihan" sebagai pilihan Nomer 1, input integer sebagai bilangan bulat yang akan diproses dengan memberi notifikasi "Masukan Jumlah Penarikan" :
-
+![gambar1](ss/16.png)
 
 ### Step 5 : Kondisi Penarikan Berhasil
 Beri kembali perintah If untuk menentukan kondisi true atau valid ketika menarik sejumlah uang, jika Jumlah yang diinput lebih kecil atau sama dengan saldo maka lanjutkan dengan diberi perintah saldo dikurangi jumlah yang dimasukan, selain kondisi diatas maka saldo tidak mencukupi:
-
+![gambar1](ss/17.png)
 
 ### Step 6 :  Kondisi Elif Pilihan No.2
 Selanjutnya beri perintah Elif untuk kemungkinan lainnya, menyatakan keluar dari proses program, tambahkan break untuk kondisi yang sudah sesuai (Valid/True) berguna untuk tidak ada pengulangan kembali : 
-
+![gambar1](ss/18.png)
 
 ### Step 7 : Print Output
 Masuk tahap terakhir, print else untuk kemungkinan lain jika kondisi data yang diinputkan False/invalid :
-
+![gambar1](ss/19.png)
 
 ### Step 8 : Test Code Program 
 Uji kode program dengan menginputkan nomer 1 untuk penarikan dan masukan jumlah uang 300.000 :
+![gambar1](ss/20.png)
+
+![gambar1](ss/21.png)
+
+## KESIMPULAN
+Code Program yang sudah dibuat dapat saya tarik kesimpulan bahwa dengan menginput perintah random maka yang akan menghasilkan output bilangan acak, dan investasi laba dapat kita permudah dengan code program yang sudah dibuat selain itu membuat ATM sederhana ini membutuhkan perintah Loop While untuk perulangan secara True/Valid, jika proses True maka beri perintah Break untuk berhentikan proses. 
